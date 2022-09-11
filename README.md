@@ -11,4 +11,4 @@ This set of files are used to deploy a  Resource Group and a Windows Server 2016
 - terraform.plan
 
 # To proceed with creating or modifying the resources based on the changes enumerated during the plan stage
-- terraform.plan
+- terraform.plan 
